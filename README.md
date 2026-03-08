@@ -21,8 +21,7 @@ Computer Science student at Tel-Hai University of Kiryat Shmona in the Galilee.
 - Troubleshooting
 
 ## Projects
-- Pokemon App
-- Football Results App
-
+- **Pokemon Web App** — Full web application for Pokémon battles, favorites, search, and leaderboard system. Built with HTML, CSS, JavaScript, Node.js, and Express as part of a Computer Science course.
+- **Football Results App** — Project details will be added soon.
 ## Connect with me
 - LinkedIn: https://www.linkedin.com/in/naseem-srour-4a1486345/
