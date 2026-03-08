@@ -1,6 +1,6 @@
 # Hi, I'm Naseem Srour
 
-Computer Science student at Tel-Hai University of Kiryat Shmona in the Galilee.
+Computer Science student at Tel-Hai University of Kiryat Shmona.
 
 ## About Me
 - Interested in QA, IT, Networking, Cybersecurity, and Software Development
