@@ -1,0 +1,28 @@
+# Hi, I'm Naseem Srour
+
+Computer Science student at Tel-Hai University of Kiryat Shmona in the Galilee.
+
+## About Me
+- Interested in QA, IT, Networking, Cybersecurity, and Software Development
+- Background in technical support, troubleshooting, and design
+- Currently building academic and personal projects
+
+## Skills
+- Python
+- Java
+- C++
+- C
+- C#
+- HTML
+- CSS
+- Git
+- GitHub
+- Networking
+- Troubleshooting
+
+## Projects
+- Pokemon App
+- Football Results App
+
+## Connect with me
+- LinkedIn: https://www.linkedin.com/in/naseem-srour-4a1486345/
