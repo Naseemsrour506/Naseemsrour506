@@ -3,7 +3,7 @@
 Computer Science student at Tel-Hai University of Kiryat Shmona.
 
 ## About Me
-- Interested in QA, IT, Networking, Cybersecurity, and Software Development
+- Interested in QA, Networking, Cybersecurity, and Software Development
 - Background in technical support, troubleshooting, and design
 - Currently building academic and personal projects
 
